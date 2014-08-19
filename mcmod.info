@@ -1,0 +1,14 @@
+[
+{
+  "modid": "DM",
+  "name": "Devine Magik",
+  "description": "A Minecraft mod that adds in a complex spell creation system and more.",
+  "version": "0.1",
+  "mcversion": "1.7.2",
+  "authorList": ["beowulfXY", "GameDOS", "Red$hadow"],
+  "credits": "Gameture Mods",
+  "logoFile": "/logo.png",
+  "screenshots": [],
+  "dependencies": []
+}
+]
