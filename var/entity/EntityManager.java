@@ -12,7 +12,7 @@ public class EntityManager {
 		spawnEntity();
 	}
 	public static void spawnEntity() {
-		addSpawn(Ogre.class, 1000, 1, 3, EnumCreatureType.monster);
+		//Add spawn thingamajigger here!
 	}
 	public static void addSpawn(Class entityClass, int probability, int min, int max, EnumCreatureType type) {
 		for (int i = 0; i < BiomeGenBase.getBiomeGenArray().length; i++) {
@@ -37,7 +37,7 @@ public class EntityManager {
 	}
 	
 	public static void registerEntity() {
-		createEntity(Ogre.class, "Ogre", 0xffffff, 0xC2B151);
+		//createentity/registerEntity here!
 	}
 	
 	public static void createEntity(Class classfile, String name, int solidColor, int spotColor) {

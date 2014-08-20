@@ -11,6 +11,6 @@ public class CreativeTabsManager {
 	public static CreativeTabs devinemagikTab;
 	
 	public static void initializeTabs() {
-		devinemagikTab = new devinemagikTab("DevineMagik");
+		devinemagikTab = new DevinemagikTab("DevineMagik");
 	}
 }
