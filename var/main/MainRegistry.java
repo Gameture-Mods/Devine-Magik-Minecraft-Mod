@@ -13,7 +13,7 @@ import cpw.mods.fml.common.event.FMLInitializationEvent;
 import cpw.mods.fml.common.event.FMLPostInitializationEvent;
 import cpw.mods.fml.common.event.FMLPreInitializationEvent;
 import cpw.mods.fml.common.registry.GameRegistry;
-@Mod(modid= "DM", name = "Devine Magik", version = "Alpha")
+@Mod(modid= "dmagic", name = "Devine Magik", version = "Alpha")
 
 public class MainRegistry {
 	
